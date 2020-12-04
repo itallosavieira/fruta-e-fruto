@@ -1,2 +1,2 @@
-# fruta-e-fruto
-Landing Page com CSS > BEM
+# arquitetura-css
+curso de arquitetura da Alura. 
