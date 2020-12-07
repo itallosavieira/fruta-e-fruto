@@ -6,6 +6,13 @@
     border-bottom: 2px solid bisque;
 }
 
+@media screen and (max-width: 768px) {
+    .header {
+        justify-content: center;
+        flex-direction: column;
+    }
+}
+
 
 
 

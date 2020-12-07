@@ -4,3 +4,8 @@
     background-repeat: no-repeat;
     height: calc(100vh - 74px);
 }
+@media screen and (max-width: 768px) {
+    .banner__image {
+        height: calc(100vh - 124px);
+    }   
+}
