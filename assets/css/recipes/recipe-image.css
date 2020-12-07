@@ -1,4 +1,5 @@
 .recipe__image {
-    min-width: 100%;
+    width: 90%;
     height: auto;
+    margin: 1rem auto;
 }
